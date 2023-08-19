@@ -11,7 +11,7 @@ public class AudioController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        beatTime = beatTime / 0.45f; 
+        beatTime = beatTime / 0.8f; 
     }
 
     // Update is called once per frame
