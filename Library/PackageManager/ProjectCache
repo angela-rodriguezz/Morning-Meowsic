@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638280106389207628
-    m_Hash: 65362328
+      ticks: 638280157339860766
+    m_Hash: 249336691
   m_LockFileStatus:
     m_FilePath: D:/Unity Projects/IGNITE-GameJam/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638280106389892814
-    m_Hash: 3660761965
+      ticks: 638280157339865727
+    m_Hash: 674523769
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
