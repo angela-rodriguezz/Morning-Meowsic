@@ -1,11 +1,13 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class ArrowWork : MonoBehaviour
 {
     public bool canPress;
     [SerializeField] private KeyCode keyPressed;
+    
 
     // Start is called before the first frame update
     void Start()
@@ -16,6 +18,13 @@ public class ArrowWork : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        //if (!RectTransformExtension.IsVisibleFrom(gameObject.GetComponent<RectTransform>())) {
+            //gameObject.GetComponent<Image>().enabled = false;
+        //} 
+
+        //if (RectTransformExtension.IsVisibleFrom(gameObject.GetComponent<RectTransform>())) {
+            //gameObject.GetComponent<Image>().enabled = true;
+        //}
         if (Input.GetKeyDown(keyPressed))
         {
             if (canPress)
