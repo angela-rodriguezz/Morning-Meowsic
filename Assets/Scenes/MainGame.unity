@@ -27731,6 +27731,10 @@ PrefabInstance:
       propertyPath: playOnAwake
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4271093393614929224, guid: 87ee7299dd44ed747af24dbb91bcd33b, type: 3}
+      propertyPath: startDelay.scalar
+      value: 0.1
+      objectReference: {fileID: 0}
     - target: {fileID: 4941468510946354384, guid: 87ee7299dd44ed747af24dbb91bcd33b, type: 3}
       propertyPath: m_Materials.Array.size
       value: 1
@@ -27741,15 +27745,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8953264713256607884, guid: 87ee7299dd44ed747af24dbb91bcd33b, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -1.014
+      value: -2.598
       objectReference: {fileID: 0}
     - target: {fileID: 8953264713256607884, guid: 87ee7299dd44ed747af24dbb91bcd33b, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 3.700298
+      value: 1.81
       objectReference: {fileID: 0}
     - target: {fileID: 8953264713256607884, guid: 87ee7299dd44ed747af24dbb91bcd33b, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 6.762
+      value: 4.899
       objectReference: {fileID: 0}
     - target: {fileID: 8953264713256607884, guid: 87ee7299dd44ed747af24dbb91bcd33b, type: 3}
       propertyPath: m_LocalRotation.w
