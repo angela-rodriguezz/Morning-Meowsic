@@ -543,7 +543,7 @@ MonoBehaviour:
     It''s time to eat'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: c4d1a42e1cc4e3844b98e24a4bd93f8a, type: 2}
-  m_sharedMaterial: {fileID: -3027110183064955638, guid: c4d1a42e1cc4e3844b98e24a4bd93f8a, type: 2}
+  m_sharedMaterial: {fileID: -2568480470704506359, guid: c4d1a42e1cc4e3844b98e24a4bd93f8a, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -713,7 +713,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 198e9e17cced3b64081a06f3ac55a6bb, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.813
   m_Pitch: 1
   Loop: 0
   Mute: 0
