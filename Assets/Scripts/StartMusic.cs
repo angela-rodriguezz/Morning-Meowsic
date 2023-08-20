@@ -5,13 +5,13 @@ using UnityEngine.UI;
 
 public class StartMusic : MonoBehaviour
 {
-    [SerializeField] private AudioSource music;
-    [SerializeField] private bool gamePlay;
+    public AudioSource music;
+    public bool gamePlay;
     [SerializeField] private AudioController bgGo;
     public static StartMusic instance;
 
-    [SerializeField] private int currentScore;
-    [SerializeField] private int scorePerNote = 1;
+    public int currentScore;
+    [SerializeField] int scorePerNote = 1;
 
 
     // Start is called before the first frame update
@@ -31,6 +31,7 @@ public class StartMusic : MonoBehaviour
                 bgGo.gameStart = true;
 
                 music.Play();
+                
             }
         }
     }
@@ -39,6 +40,8 @@ public class StartMusic : MonoBehaviour
     {
         Debug.Log("On Time");
         currentScore += scorePerNote;
+
+
     }
 
     public void WrongBeat()
