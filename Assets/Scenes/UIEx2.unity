@@ -3036,6 +3036,8 @@ MonoBehaviour:
   music: {fileID: 57243092}
   gamePlay: 0
   bgGo: {fileID: 1963628455}
+  currentScore: 0
+  scorePerNote: 1
 --- !u!4 &414080907
 Transform:
   m_ObjectHideFlags: 0
