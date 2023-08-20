@@ -1,14 +1,9 @@
 fileFormatVersion: 2
-guid: 457b1681deaf8fd44b4d1d2c3da55626
+guid: ff7ba5633cf201d45bc20ad3e538c831
 ModelImporter:
   serializedVersion: 21202
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: M_Pencil
-    second: {fileID: 2100000, guid: 4f0edca1d6d761548a463c80a0e43279, type: 2}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0
