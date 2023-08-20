@@ -11,7 +11,7 @@ public class AudioController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        beatTime = beatTime / 0.8f; 
+        beatTime = beatTime / 0.273f; 
     }
 
     // Update is called once per frame
@@ -23,12 +23,26 @@ public class AudioController : MonoBehaviour
             if (Input.anyKeyDown)
             {
                 gameStart = true;
-            } */
+            } 
+            */
         }
         else
         {
             transform.position -= new Vector3(0f, beatTime * Time.deltaTime, 0f);
         }
+
        
     }
+/*
+    void FixedUpdate()
+    {
+        if (!gameStart)
+        {
+            
+        } else
+        {
+            transform.position -= new Vector3(0f, beatTime * Time.deltaTime, 0f);
+        }
+    }
+*/
 }

@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class StartMusic : MonoBehaviour
 {
@@ -8,6 +9,10 @@ public class StartMusic : MonoBehaviour
     [SerializeField] private bool gamePlay;
     [SerializeField] private AudioController bgGo;
     public static StartMusic instance;
+
+    [SerializeField] private int currentScore;
+    [SerializeField] private int scorePerNote = 1;
+
 
     // Start is called before the first frame update
     void Start()
@@ -33,6 +38,7 @@ public class StartMusic : MonoBehaviour
     public void RightBeat()
     {
         Debug.Log("On Time");
+        currentScore += scorePerNote;
     }
 
     public void WrongBeat()
