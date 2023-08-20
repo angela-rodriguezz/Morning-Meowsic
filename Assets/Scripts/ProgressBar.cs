@@ -11,7 +11,7 @@ public class ProgressBar : MonoBehaviour
     [SerializeField] private Image progressBar;
     [SerializeField] private ArrowWork truther;
 
-    float progress, fullScore = 85;
+    float progress, fullScore = 22;
     float lerpSpeed;
 
     // Start is called before the first frame update
