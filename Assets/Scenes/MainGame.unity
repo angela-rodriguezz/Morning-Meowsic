@@ -708,7 +708,7 @@ Animator:
   m_GameObject: {fileID: 43857745}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 5198c57dcc7683242917b8b55518c2f8, type: 2}
+  m_Controller: {fileID: 9100000, guid: dbd67bf70ae620e48bd4e729cb3ce2ab, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -16326,6 +16326,7 @@ MonoBehaviour:
   bgGo: {fileID: 247610077}
   currentScore: 0
   scorePerNote: 1
+  pawAnimator: {fileID: 43857746}
 --- !u!4 &2022130976
 Transform:
   m_ObjectHideFlags: 0
