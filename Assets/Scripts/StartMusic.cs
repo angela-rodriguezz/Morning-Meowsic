@@ -14,8 +14,7 @@ public class StartMusic : MonoBehaviour
     [SerializeField] int scorePerNote = 1;
 
     public Animator pawAnimator;
-
-
+    public ParticleSystem particle; 
 
     // Start is called before the first frame update
     void Start()
@@ -43,8 +42,9 @@ public class StartMusic : MonoBehaviour
     {
         Debug.Log("On Time");
         currentScore += scorePerNote;
-        pawAnimator.SetBool("PlayAnimation", true);
-
+       // pawAnimator.SetBool("PlayAnimation", true);
+        pawAnimator.SetTrigger("PlayAnimation"); 
+        particle.Play();
 
     }
 
