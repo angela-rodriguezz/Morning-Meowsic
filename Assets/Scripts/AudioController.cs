@@ -28,7 +28,7 @@ public class AudioController : MonoBehaviour
         }
         else
         {
-            transform.position -= new Vector3(0f, beatTime * Time.deltaTime, 0f);
+            GetComponent<RectTransform>().anchoredPosition -= new Vector2(0f, beatTime * Time.deltaTime);
         }
 
        
