@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class ArrowWork : MonoBehaviour
 {
-    [SerializeField] private bool canPress;
+    public bool canPress;
     [SerializeField] private KeyCode keyPressed;
 
     // Start is called before the first frame update
