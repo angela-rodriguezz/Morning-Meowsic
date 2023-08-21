@@ -1,5 +1,5 @@
 # SOMOS IGNITE 2023 - Morning Meowsic
-
+> *This game is inspired by the shared experience among cat-owners of being woken up each morning by their voracious feline companions*
 <img src='https://github.com/angela-rodriguezz/IGNITE-GameJam/blob/main/README-Images/GameCover2.png' title='Morning Meowsic' width='500' heigth="800" stlye="display: block; margin: 0 auto" alt='Game Logo' />
 
 ## Submitted by 
