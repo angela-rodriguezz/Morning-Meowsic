@@ -35,7 +35,7 @@ This collaboration became crucial when we tackled the task of integrating custom
 In the end, we successfully created a playable game that encompassed all of our essential features as well as the additional stretch goals.
 
 ## What's Next?
-Our enthusiasm and deep appreciation goes out to the organizers and mentors who orchestrated this remarkable Somos Ignite 2023 Game Jam by Activision. This experience has been a profound learning journey for us. The current iteration of the game introduces the initial level of gameplay, and our vision is to infuse it with player sessions, save game functionality, and a richer tapestry of interactive animations, all guided by the same passion that drove us to participate in this extraordinary event.
+Our enthusiasm and deep appreciation goes out to the organizers and mentors who orchestrated this remarkable IGNITE 2023 Game Jam by hosted by SOMOS - part of the Activision Blizzard Entertainment King network for proud Latina, Latino, Latine, and allies. This experience has been a profound learning journey for us. The current iteration of the game introduces the initial level of gameplay, and our vision is to infuse it with player sessions, save game functionality, and a richer tapestry of interactive animations, all guided by the same passion that drove us to participate in this extraordinary event.
 
 ## Credits
 
