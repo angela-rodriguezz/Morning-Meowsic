@@ -1,6 +1,6 @@
 # SOMOS IGNITE 2023 - Morning Meowsic
 
-![Game Logo]()
+<img src='https://github.com/angela-rodriguezz/IGNITE-GameJam/blob/main/README-Images/GameCover2.png' title='Morning Meowsic' width='500' heigth="800" stlye="display: block; margin: 0 auto" alt='Game Logo' />
 
 ## Submitted by 
 - Ana Figueiredo
@@ -25,9 +25,7 @@ Cat paws rain from the top of the screen, matching the tempo of the background m
 - [Illustrator](https://www.adobe.com/products/illustrator.html)
 
 ## Project Demo
-[🌐 See Live Demo!]()
-
-![Play Through]()
+[🌐 See Live Demo!](https://angelarodriguezz.itch.io/morning-meowsic)
 
 ## Challenges and Accomplishments
 As a group of designers and programmers, our main challenges revolved around bridging the gap in our knowledge domains.Some of us were new to game development and Unity, while others were new to programming and diving into Git for the first time. Despite these hurdles, we managed to overcome them by communicating openly and patiently explaining concepts to one another.
@@ -39,8 +37,6 @@ In the end, we successfully created a playable game that encompassed all of our 
 ## What's Next?
 Our enthusiasm and deep appreciation goes out to the organizers and mentors who orchestrated this remarkable Somos Ignite 2023 Game Jam by Activision. This experience has been a profound learning journey for us. The current iteration of the game introduces the initial level of gameplay, and our vision is to infuse it with player sessions, save game functionality, and a richer tapestry of interactive animations, all guided by the same passion that drove us to participate in this extraordinary event.
 
-
----
 ## Credits
 
 ### Graphic Templates
