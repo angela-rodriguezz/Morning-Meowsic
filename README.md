@@ -51,8 +51,8 @@ Our enthusiasm and deep appreciation goes out to the organizers and mentors who 
 ### Audio
 - [Meow](https://www.youtube.com/watch?v=cwyTleTL06Y) by Lusvm
 - Start Menu Music: [Over the Horizon - Samsung Galaxy S3](https://www.youtube.com/watch?v=Lkfr3dnNOAY)
-Alarm sfx: [Alarm sound effect](https://www.youtube.com/watch?v=5LCvj6Z_LrA)
-Snore sfx: [TikTok snoring (ORIGINAL MEME SOUND EFFECT)](https://www.youtube.com/watch?v=w7mZjDmjFew)
+- Alarm sfx: [Alarm sound effect](https://www.youtube.com/watch?v=5LCvj6Z_LrA)
+- Snore sfx: [TikTok snoring (ORIGINAL MEME SOUND EFFECT)](https://www.youtube.com/watch?v=w7mZjDmjFew)
 
 
 ### Unity Assets
