@@ -27,6 +27,9 @@ Cat paws rain from the top of the screen, matching the tempo of the background m
 ## Project Demo
 [🌐 See Live Demo!](https://angelarodriguezz.itch.io/morning-meowsic)
 
+## Game Design Document
+[Game Jam Design Document](https://docs.google.com/document/d/1k_l2O-KRvtfp0nUQqMnD-CuiQcbn414Y1a7hKQ9JbTE/edit?usp=sharing)
+
 ## Challenges and Accomplishments
 As a group of designers and programmers, our main challenges revolved around bridging the gap in our knowledge domains.Some of us were new to game development and Unity, while others were new to programming and diving into Git for the first time. Despite these hurdles, we managed to overcome them by communicating openly and patiently explaining concepts to one another.
 
