@@ -12,6 +12,7 @@
 As a cat, you typically start your morning with a nice bowl of cat food, served to you by your faithful human companion. But this morning was different, you discover that your human has chosen to sleep in rather than prepare your meal. This is unacceptable, you decided to teach them a lesson with your patented Catrate Chop. 
 
 ## Gameplay
+<img src="https://github.com/angela-rodriguezz/Morning-Meowsic/blob/deb6d9f637e9eb7198103078cb031a0e117f3650/gameplay.gif" title="gameplay"  width='500' heigth="800">
 In order to wake up your owner, you must match the rhythm of the music. As cat paws rain from the top of the screen, match the tempo of the background music in order to hit your owner awake from their slumber. Their awake level is shown within the Wake-A-Meter. 
 
 ## Technologies Used
