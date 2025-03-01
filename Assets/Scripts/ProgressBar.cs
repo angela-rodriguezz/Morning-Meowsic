@@ -11,7 +11,7 @@ public class ProgressBar : MonoBehaviour
     [SerializeField] private Image progressBar;
     [SerializeField] private ArrowWork truther;
 
-    float progress, fullScore = 22;
+    float progress, fullScore = 35;
     float lerpSpeed;
 
     // Start is called before the first frame update
@@ -37,18 +37,16 @@ public class ProgressBar : MonoBehaviour
         {
             if (!PointChecker(pointGetter.currentScore))
             {
-                progressFiller(pointGetter.currentScore);
-                
-                ColorChanger(pointGetter.currentScore);
                 progress = pointGetter.currentScore;
-
+                progressFiller(pointGetter.currentScore);
+                ColorChanger(pointGetter.currentScore);
             }
         }
     }
 
     void progressFiller(float score)
     {
-        progressBar.fillAmount = Mathf.Lerp(progressBar.fillAmount, progress / fullScore, lerpSpeed);
+        progressBar.fillAmount = progress / fullScore;
     }
 
     void ColorChanger(float score)
